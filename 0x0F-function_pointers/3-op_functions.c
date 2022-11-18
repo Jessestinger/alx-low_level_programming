@@ -53,7 +53,6 @@ int op_div(int a, int b)
 		exit(100);
 	}
 
-	return (a / b);
 }
 
 /**
